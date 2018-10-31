@@ -6,9 +6,7 @@ using System.Text;
 namespace DbHelper
 {
     /// <summary>
-    /// \brief   写日志接口。
-    /// \author  RLM
-    /// \date    2014.09.04
+    /// 写日志接口
     /// </summary>
     public interface ILogger
     {

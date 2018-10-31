@@ -7,9 +7,7 @@ using System.Text;
 namespace DbHelper
 {
     /// <summary>
-    /// \brief   枚举帮助类。
-    /// \author 
-    /// \date    2014.09.05
+    /// 枚举帮助类。
     /// </summary>
     public class EnumHelp : Singleton<EnumHelp>
     {

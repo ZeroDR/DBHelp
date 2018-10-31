@@ -15,9 +15,7 @@ using System.Text.RegularExpressions;
 namespace DbHelper
 {
     /// <summary>
-    /// \brief   数据库访问类。
-    /// \author  RLM
-    /// \date    2014.09.05
+    /// 数据库访问类。
     /// </summary>
     public class DBHelper
     {
